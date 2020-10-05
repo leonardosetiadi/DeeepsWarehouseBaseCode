@@ -1,0 +1,3 @@
+include ':QrScanner'
+include ':app'
+rootProject.name = "DeeepsWarehouseBaseCode"
